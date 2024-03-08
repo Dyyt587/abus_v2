@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34407.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abus_v2", "abus_v2\abus_v2.vcxproj", "{A90D3F7E-556A-471D-A112-B0BCC69F09FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Debug|x64.ActiveCfg = Debug|x64
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Debug|x64.Build.0 = Debug|x64
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Debug|x86.Build.0 = Debug|Win32
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Release|x64.ActiveCfg = Release|x64
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Release|x64.Build.0 = Release|x64
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Release|x86.ActiveCfg = Release|Win32
+		{A90D3F7E-556A-471D-A112-B0BCC69F09FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {889F331B-0E2B-4BBC-BA3C-94E3A0FEBA2A}
+	EndGlobalSection
+EndGlobal
